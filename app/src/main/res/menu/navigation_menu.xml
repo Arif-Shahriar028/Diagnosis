@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/useProfileId"
+        android:title="Profile"
+        />
+
+    <item
+        android:title="Friends"
+        />
+
+    <item
+        android:title="Messaging"
+        />
+
+    <item
+        android:title="About app"
+        />
+
+    <item
+        android:id="@+id/logoutItemId"
+        android:title="Log Out"
+        />
+
+</menu>
